@@ -963,7 +963,7 @@ if minetest.get_modpath("stairs")~=nil then
 	)
 
 	stairs.register_stair_and_slab(
-		"adobe_brick",
+		"mudbrick",
 		"swaz:mudbrick",
 		{cracky = 2, stone = 1},
 		{"swaz_mudbrick.png"},
